@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nomesh Tighare </h1>
-<h3 align="center">I'm a Full Stack Developer & Android Developer </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayuri Wandhe </h1>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -9,8 +9,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
-- 📫 How to reach me: **nomeshtighare@gmail.com**
-- website: **http://nomeshtighare.github.io**
+- 📫 How to reach me: **rushaliwandhe25@gmail.com**
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Languages and Tools:
@@ -33,16 +32,16 @@ Languages and Tools:
 
 
 <p align="center">
-    <a href="https://github.com/NomeshTighare/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nomesh Tighare's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NomeshTighare&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MayuriWandhe/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayuri Wandhe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MayuriWandhe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats
 
   <br/>
-    <a href="https://github.com/NomeshTighare/github-readme-stats"><img alt="Nomesh Tighare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NomeshTighare&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/NomeshTighare/github-readme-stats"><img alt="Nomesh Tighare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomeshTighare&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MayuriWandhe/github-readme-stats"><img alt="Mayuri Wandhe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MayuriWandhe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MayuriWandhe/github-readme-stats"><img alt="Mayuri Wandhe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayuriWandhe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -50,7 +49,7 @@ Languages and Tools:
 <br/>
 <br/>
 
-<a href="https://github.com/NomeshTighare/github-readme-activity-graph"><img alt="Nomesh Tighare's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NomeshTighare&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MayuriWandhe/github-readme-activity-graph"><img alt="Mayuri Wandhe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MayuriWandhe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -59,13 +58,13 @@ Languages and Tools:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/nomeshtighare"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/n_o_m_u_04?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mayuri-wandhe-926b16209"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://instagram.com/_rushu_zone_?igshid=YmMyMTA2M2Y="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NomeshTighare">
+    <img src="https://komarev.com/ghpvc/?username=MayuriWandhe">
 </a>
-<a href="https://github.com/NomeshTighare?tab=followers"><img src="https://img.shields.io/github/followers/NomeshTighare?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MayuriWandhe?tab=followers"><img src="https://img.shields.io/github/followers/MayuriWandhe?label=Followers&style=social" alt="GitHub Badge"></a>
